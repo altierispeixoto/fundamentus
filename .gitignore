@@ -1,0 +1,11 @@
+__pycache__/
+*$py.class
+
+dist/
+*.egg-info
+
+
+.vscode/
+
+# dynaconf secrets
+config/.secrets.toml
